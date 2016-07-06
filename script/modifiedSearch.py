@@ -22,7 +22,7 @@ import json
 from bson import json_util
 
 from lib import CVEs
-import lib.DatabaseLayer as db
+import lib.modifiedDatabaseLayer as db
 
 # init control variables
 csvOutput = 0

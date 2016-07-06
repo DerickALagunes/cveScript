@@ -1,0 +1,13 @@
+---
+operating_system:
+- debian
+- centos
+- redhat
+- ubuntu
+software:
+- openssh
+equipment:
+- dell
+- nexsan
+- netapp
+last_update: !ruby/object:DateTime 2016-06-14 13:08:23.833579335 +00:00
